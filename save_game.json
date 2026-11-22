@@ -1,0 +1,18 @@
+{
+    "class": "Warrior",
+    "hp": 230,
+    "mana": 50,
+    "attack": 26,
+    "defense": 19,
+    "crit_chance": 5,
+    "max_hp": 230,
+    "potions": 1,
+    "mana_potions": 2,
+    "max_mana": 40,
+    "name": "amar",
+    "level": 5,
+    "experience": 15,
+    "experience_to_next_level": 300,
+    "gold": 330,
+    "bosses_defeated": []
+}
